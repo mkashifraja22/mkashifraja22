@@ -1,4 +1,4 @@
-I am a Full Stack Developer expert in Python Flask ,Django and Php Laravel as backend platforms and HTML, CSS , JavaScripts and ReactJS as frontend technologies.
+I am a Full Stack Developer expert in Python Flask ,Django and Flask as backend platforms and HTML, CSS , JavaScripts and ReactJS as frontend technologies.
 
 <!---
 mkashifraja22/mkashifraja22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
