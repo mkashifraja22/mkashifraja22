@@ -3,7 +3,6 @@
 As a seasoned Python developer with a strong academic background (BSc in Computer Science from NCBA&E Lahore and MSc in Computer Science from FAST NUCES), I possess a unique blend of technical expertise and project management skills. My extensive experience in web development spans over a year, with proficiency in:
 
 - **Python Frameworks**: Django, Flask, FastAPI
-- **PHP Framework**: Laravel
 - **Databases**: SQL, MySQL, SQLite, PostgreSQL, Peewee, MongoDB, Google Cloud Services
 - **Front-end Technologies**: JavaScript, HTML, CSS, jQuery, Bootstrap
 - **Automation Tools**: Selenium, Playwright
