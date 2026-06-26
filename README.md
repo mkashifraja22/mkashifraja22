@@ -1,42 +1,75 @@
-# About Me
+# Hi, I'm Muhammad Kashif 👋
 
-As a seasoned Python developer with over 4 years of hands on experience and a strong academic background (BSc in Computer Science from NCBA&E Lahore and MSc in Computer Science from FAST NUCES), I possess a unique blend of technical expertise and project management skills. My extensive experience in web development spans over years, with proficiency in:
+**Senior Python Backend Developer** | 5+ years building production-grade REST APIs, CRM middleware & AI automation for US-based clients
 
-- **Python Frameworks**: Django, Flask, FastAPI
-- **Databases**: SQL, MySQL, SQLite, PostgreSQL, Peewee, MongoDB, Google Cloud Services
-- **Front-end Technologies**: JavaScript, HTML, CSS, jQuery, Bootstrap
-- **Automation Tools**: Selenium, Playwright
-- **Version Control**: Git, GitHub
-- **Cloud Services**: AWS (CI/CD pipeline deployment)
-
-I take a client-centric approach, ensuring seamless communication to fully understand project requirements and vision. My expertise includes:
-
-- **Web Development**:
-  - Designing and developing web applications and user control pages
-  - Crafting responsive and user-friendly interfaces using HTML, CSS, and JavaScript
-- **Backend Development**:
-  - Implementing robust backend solutions with both SQL and NoSQL databases
-  - Utilizing Google Cloud Services for scalable and efficient solutions
-- **Project Management**:
-  - Client-centric approach ensuring seamless communication
-  - Understanding project requirements and vision to deliver high-quality results
-
-## Additional Expertise
-
-- Expertise in Python, C++, JavaScript
-- Experience with Django REST Framework
-- Experience with pipeline deployment, CI/CD in AWS
-- Experience in web scraping
-
-## Let's Collaborate
-
-I am excited to collaborate with clients who value expertise, dedication, and clear communication. Let's work together to bring your project to life!
+📍 Lahore, Pakistan &nbsp;|&nbsp; 📧 mkashifraja22@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mkashifr)
 
 ---
 
-Feel free to reach out to discuss your project needs and how we can collaborate effectively.
+### 🚀 About Me
 
-<!---
-mkashifraja22/mkashifraja22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design and ship Django-based backend systems that connect enterprise CRMs (HubSpot, Salesforce, Zoho, Covetrus) into unified, real-time data layers — eliminating manual data entry and powering live lead sync. I also build AI-driven products using RAG, LLM fine-tuning, and vector search to turn raw data into intelligent, production-ready experiences.
+
+Currently architecting backend systems and automation pipelines at **Datamart Inc.**, with prior experience leading CRM integration work for a US remote team at **Axion Communications**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+`Python` `JavaScript` `HTML` `CSS` `jQuery` `Jinja2`
+
+**Frameworks**
+`Django` `Django REST Framework` `FastAPI` `Flask` `LangChain`
+
+**Databases**
+`PostgreSQL (pgvector)` `MySQL` `MongoDB` `SQLite` `Vector Databases`
+
+**Automation & Cloud**
+`Selenium` `Playwright` `BeautifulSoup` `Scrapy` `Celery` `Redis` `AWS (EC2, CloudRun)` `GCP` `Docker` `CI/CD`
+
+**AI / LLM**
+`RAG (Retrieval-Augmented Generation)` `LLM Fine-tuning` `Training Dataset Optimization` `Semantic Search`
+
+---
+
+### 💼 Featured Projects
+
+**🚖 Limo Fleet & Dispatch Platforms** — `nrlimo.com` · `nwlimoinc.com` · `meharlimo.com`
+End-to-end booking and dispatch systems for US ground-transportation companies — live trip tracking, route mapping, and customer booking workflows.
+`Django` `PostgreSQL` `Mapbox API` `REST APIs`
+
+**🔗 CMI — CRM Connector**
+Multi-CRM middleware unifying HubSpot, Salesforce, Zoho, and Covetrus into a single normalised API layer via real-time webhooks — cut lead duplication errors by ~60%.
+`Python` `Django` `Webhooks` `REST APIs`
+
+**🤖 Ellas ChatBot**
+AI-powered customer engagement chatbot using RAG and LLM fine-tuning over domain-specific datasets, with a Postgres vector database for semantic retrieval — automates lead qualification and follow-ups.
+`Python` `Django` `OpenAI API` `LangChain` `RAG` `Vector Database`
+
+**🏠 Prospect Avenue**
+Real estate lead generation platform with automated scraping and enrichment pipelines feeding qualified leads into agent dashboards.
+`Python` `Django` `Scrapy` `PostgreSQL`
+
+**🔌 CRM Middleware API**
+RESTful middleware bridging multiple CRM systems and mobile apps, significantly cutting new CRM onboarding time.
+`Python` `Django REST Framework` `OAuth2`
+
+---
+
+### 🎓 Education
+
+- **MSc Computer Science** — FAST National University of Computer and Emerging Sciences, Lahore
+- **BSc Computer Science** — National College of Business Administration & Economics, Lahore
+
+### 📜 Certifications
+
+- Advanced Python — NAVTTC
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing backend architecture, CRM integrations, or AI-powered product builds.
+
+📧 **mkashifraja22@gmail.com** &nbsp;|&nbsp; 🔗 **[linkedin.com/in/mkashifr](https://linkedin.com/in/mkashifr)**
